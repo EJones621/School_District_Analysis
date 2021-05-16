@@ -25,3 +25,7 @@ Reading Scores by Grade
 Math Scores by Grade
 
 ![Math Scores by Grade](https://github.com/EJones621/School_District_Analysis/blob/main/Resources/Math_Scores_by_Grade.png)
+
+
+## Summary
+Although replacing the 9th graders from THS does not affect the reading and math scores by school spending, scores by school type, and scores by schools size, it does have quite an impact on THS performers versus other schools. It went from #2/15 to #13/15. Since the 9th grade class was relatively small versus the overall size of the school district, it did not hvae much of an overall performance impact. It only went down slightly.
