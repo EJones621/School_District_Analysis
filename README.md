@@ -17,7 +17,7 @@ The overall performance from THS dropped a lot when removing the 9th graders. TH
 THS went from one of the top schools in the district to the bottom. They were 2nd out of 15 and dropped to 13th. Additionally, here a is picture to show:
 
 Reading Scores by Grade
-!(https://github.com/EJones621/School_District_Analysis/blob/main/Resources/Reading_Scores_by_Grade.png)
+![Reading Scores by Grade](https://github.com/EJones621/School_District_Analysis/blob/main/Resources/Reading_Scores_by_Grade.png)
 
 Math Scores by Grade
-!(https://github.com/EJones621/School_District_Analysis/blob/main/Resources/Math_Scores_by_Grade.png)
+![Math Scores by Grade](https://github.com/EJones621/School_District_Analysis/blob/main/Resources/Math_Scores_by_Grade.png)
