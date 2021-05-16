@@ -11,5 +11,5 @@ The district summary did not have much an affect from the removal of the 461 9th
 *How is the school summary affected?*
 The overall performance from THS dropped a lot when removing the 9th graders. THS went from a passing rate of about 90.6% to about 65.1%. Reading and math percentage also had dropoffs. (Reading roughly 4% and math roughly 3%). Here is a picture:
 
-![School Summary] (https://github.com/EJones621/School_District_Analysis/blob/main/Resources/School_Summary.png)
+![School Summary](https://github.com/EJones621/School_District_Analysis/blob/main/Resources/School_Summary.png)
 
